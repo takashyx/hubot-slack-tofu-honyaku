@@ -11,7 +11,6 @@ module.exports = (robot) ->
   robot.hear /.*/, (msg) ->
     buf = new Buffer(msg.message.text,'UTF-8')
 
-
     if buf.includes(tofu)
 
       # msg.send "tofu-killed: " + buf
