@@ -1,6 +1,6 @@
 {
   "name": "hubot-slack-tofu-honyaku",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tofu honyaku script for hubot-slack",
   "dependencies": {
     "hubot-slack": "^4.0.2"
