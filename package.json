@@ -1,0 +1,24 @@
+{
+  "name": "hubot-slack-tofu-honyaku",
+  "version": "1.0.1",
+  "description": "A tofu honyaku script for hubot-slack",
+  "dependencies": {
+    "hubot-slack": "^4.0.2"
+  },
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takashyx/hubot-slack-tofu-honyaku.git"
+  },
+  "keywords": [
+    "hubot",
+    "slack",
+    "tofu"
+  ],
+  "author": "takashyx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takashyx/hubot-slack-tofu-honyaku/issues"
+  },
+  "homepage": "https://github.com/takashyx/hubot-slack-tofu-honyaku#readme"
+}
