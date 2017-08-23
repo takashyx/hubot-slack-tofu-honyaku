@@ -39,3 +39,6 @@ $ cat external-scripts.json
 # リンク
 ## github
 https://github.com/takashyx/hubot-slack-tofu-honyaku
+
+## npm
+https://www.npmjs.com/package/hubot-slack-tofu-honyaku
