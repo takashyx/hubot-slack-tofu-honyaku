@@ -4,7 +4,7 @@ MacからSlackクライアントを使って日本語の文章を投稿する際
 ![Pasted_Image_2017_08_23_15_14.png](https://qiita-image-store.s3.amazonaws.com/0/24956/fdc02dfb-88a1-a67d-db1e-fe721e451f7a.png)
 
 # hubot-slack用スクリプト書きました。
-文字化け投稿を察知するとこんな感じで翻訳してくれます
+Channelにbotをinviteしておくと、文字化け投稿を察知するとこんな感じで翻訳してくれます
 node.jsのBufferを使っています
 
 ![Pasted_Image_2017_08_23_15_14.png](https://qiita-image-store.s3.amazonaws.com/0/24956/abed520f-619b-89e3-9fc1-ac857ee2021b.png)
